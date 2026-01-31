@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nguy%E1%BB%85n+H%C3%B9ng;Backend+Developer;Node.js+%7C+NestJS+%7C+Go;Building+Production-Ready+Services" />
 </p>
 
-<h1 align="center">🚀 Nguyễn Hùng</h1>
+<h1 align="center"><img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/0b0be108-7456-4607-bf14-51089ab5f800" />
+ Nguyễn Hùng</h1>
 
 <p align="center">
   <b>Backend Developer</b> · Clean Architecture · DevOps-ready
