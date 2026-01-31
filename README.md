@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nguy%E1%BB%85n+H%C3%B9ng;Backend+Developer;Node.js+%7C+NestJS+%7C+Go;Building+Production-Ready+Services" />
 </p>
 
-<h1 align="center"><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/17cb9948-be4a-41a6-ac7b-73828fc423c1" />
+<h1 align="center"><img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/17cb9948-be4a-41a6-ac7b-73828fc423c1" />
  Nguyễn Hùng</h1>
 
 <p align="center">
