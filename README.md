@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Nguy%E1%BB%85n+H%C3%B9ng+%F0%9F%91%8B;Backend+Engineer+%7C+Systems+Thinker;Express+%7C+NestJS+%7C+Go;Hexagonal+Architecture+%7C+DDD+%7C+Microservices;Building+things+that+scale+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Nguy%E1%BB%85n+H%C3%B9ng+%F0%9F%91%8B;Backend+Engineer+%7C+Systems+Thinker;Express+%7C+NestJS+%7C+Go;Hexagonal+Architecture+%7C+DDD+%7C+Microservices;DevOps-minded+%7C+Ship+fast%2C+scale+right+%F0%9F%9A%80" />
 </p>
 
 <h1 align="center">⚔️ Nguyễn Hùng</h1>
 
 <p align="center">
-  <b>Backend Engineer</b> · Hexagonal Architecture · Domain-Driven Design · Production-Ready
+  <b>Backend Engineer</b> · Hexagonal Architecture · Domain-Driven Design · DevOps-Ready
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-AWS_EC2-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
 ---
@@ -33,7 +34,8 @@
 - ⚡ **High-perf services:** Go · gRPC · Event-driven patterns
 - 🚀 **DevOps:** Docker · GitHub Actions CI/CD · AWS EC2 · Nginx · PM2
 - 📡 **Caching & messaging:** Redis (cache, session, pub/sub)
-- 📚 **Currently mastering:** Go microservices · Distributed systems · CQRS
+- 🤖 **AI Integration:** OpenAI API · Prompt engineering · Content generation
+- 📚 **Currently mastering:** Go microservices · Distributed systems · CQRS · Kubernetes
 
 ---
 
@@ -43,16 +45,44 @@
 `TypeScript` `JavaScript` `Go` `Java` `SQL`
 
 ### ⚙️ Backend
-`Node.js` `Express.js` `NestJS` `REST APIs` `gRPC` `Microservices`
+`Node.js` `Express.js` `NestJS` `REST APIs` `gRPC` `WebSocket` `Microservices`
 
 ### 🏗️ Architecture & Patterns
-`Hexagonal Architecture` `DDD` `CQRS` `Clean Architecture` `RBAC` `JWT`
+`Hexagonal Architecture` `DDD` `CQRS` `Event-Driven` `RBAC` `JWT` `Clean Architecture`
 
 ### 🗄️ Databases & Caching
 `MongoDB` `MySQL` `Redis`
 
+### 🤖 AI & Integration
+`OpenAI API` `Prompt Engineering` `Streaming Response`
+
 ### 🚀 DevOps & Infra
-`Docker` `AWS EC2` `GitHub Actions` `Nginx` `PM2`
+`Docker` `Docker Compose` `AWS EC2` `GitHub Actions` `Nginx` `PM2`
+
+> **DevOps philosophy:** Every project I build ships with a proper CI/CD pipeline.  
+> Code pushed → tested → built → deployed automatically.  
+> No manual SSH deployment, no "works on my machine".
+
+### DevOps Workflow
+
+```
+Developer Push
+      │
+      ▼
+GitHub Actions (CI)
+  ├── Lint & Type check
+  ├── Unit tests
+  └── Build Docker image
+          │
+          ▼
+    Docker Hub / GHCR
+          │
+          ▼
+    AWS EC2 (CD)
+  ├── Pull latest image
+  ├── docker compose up -d
+  └── Nginx reverse proxy → PM2 health check
+```
 
 ### 🎨 Frontend (when needed)
 `React` `TanStack Query` `Zustand` `Tailwind CSS`
@@ -63,12 +93,10 @@
 
 | 🚀 Project | 🛠 Stack | 📌 Description | 🔗 |
 |---|---|---|---|
-| **🌌 Vạn Giới** | Go · gRPC · DDD · Redis · Kafka · Docker | Hệ thống microservices quy mô lớn: User, Auth, Order, Notification — mỗi service là một bounded context độc lập với DDD thuần túy | [Repo](#) |
-| **Ecommerce Backend** | Express · TS · Hexagonal · Redis · AWS | Production-grade monolith: auth, cart, orders, caching, CI/CD pipeline thực tế | [Repo](#) |
-| **Auth Service** | NestJS · TypeScript · JWT · RBAC · MySQL | Enterprise-grade auth module: access/refresh token, role-based guard, multi-device session | [Repo](#) |
-| **Trenoty** | MERN · TanStack Query | Trello-like task management với JWT authentication | [Repo](#) |
-| **EasyCheck** | MERN · Zustand | Teacher attendance & classroom management dashboard | [Repo](#) |
-| **Notion Clone** | MERN · Tailwind | Block-based rich text editor & page system | [Repo](#) |
+| **🌌 Vạn Giới** | Go · gRPC · DDD · Redis · Kafka · Docker | Hệ thống microservices: User, Auth, Order, Notification — mỗi service là một bounded context độc lập, giao tiếp qua gRPC & Kafka | [Repo](#) |
+| **🛍️ Tika** | Express · TS · Hexagonal · Redis · React · AWS | Tiki-inspired fullstack ecommerce: product, cart, orders, payment flow — có live demo | [Repo](#) · [Demo](#) |
+| **🧵 Thread** | NestJS · WebSocket · Redis pub/sub · JWT | Real-time social platform: live feed, instant messaging, online presence tracking | [Repo](#) |
+| **📝 Notion Clone** | MERN · OpenAI API · Tailwind | Block-based editor tích hợp AI: generate content, summarize, rephrase với OpenAI streaming | [Repo](#) · [Demo](#) |
 
 ---
 
