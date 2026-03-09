@@ -1,137 +1,215 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Nguy%E1%BB%85n+H%C3%B9ng+%F0%9F%91%8B;Backend+Engineer+%7C+Systems+Thinker;Express+%7C+NestJS+%7C+Go;Hexagonal+Architecture+%7C+DDD+%7C+Microservices;DevOps-minded+%7C+Ship+fast%2C+scale+right+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=650&lines=Nguyen+Hung;Backend+Developer;Building+Scalable+Backend+Systems;Node.js+%7C+Go+%7C+Distributed+Systems"/>
 </p>
 
-<h1 align="center">⚔️ Nguyễn Hùng</h1>
+<h1 align="center">Nguyễn Hùng</h1>
 
 <p align="center">
-  <b>Backend Engineer</b> · Hexagonal Architecture · Domain-Driven Design · DevOps-Ready
+Backend Developer • Backend Systems • Distributed Architecture
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-NestJS-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Hexagonal-blueviolet" />
-  <img src="https://img.shields.io/badge/Pattern-DDD-orange" />
-  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS_EC2-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=nguyenhung253&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+# About Me
 
-> I don't just write code — I **design systems**.  
-> From clean hexagonal monoliths to Go-powered microservices,  
-> every line I write is built to **scale, survive, and ship**.
+Backend developer focused on building and learning modern backend systems.
 
-- ⚙️ **Backend core:** Express.js · NestJS · TypeScript · REST · Clean layering
-- 🏗️ **Architecture:** Hexagonal Architecture · Domain-Driven Design
-- ⚡ **High-perf services:** Go · gRPC · Event-driven patterns
-- 🚀 **DevOps:** Docker · GitHub Actions CI/CD · AWS EC2 · Nginx · PM2
-- 📡 **Caching & messaging:** Redis (cache, session, pub/sub)
-- 🤖 **AI Integration:** OpenAI API · Prompt engineering · Content generation
-- 📚 **Currently mastering:** Go microservices · Distributed systems · CQRS · Kubernetes
+I enjoy exploring:
 
----
+- backend architecture
+- API design
+- caching systems
+- message-driven systems
+- real-time communication
+- backend deployment workflows
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`TypeScript` `JavaScript` `Go` `Java` `SQL`
-
-### ⚙️ Backend
-`Node.js` `Express.js` `NestJS` `REST APIs` `gRPC` `WebSocket` `Microservices`
-
-### 🏗️ Architecture & Patterns
-`Hexagonal Architecture` `DDD` `CQRS` `Event-Driven` `RBAC` `JWT` `Clean Architecture`
-
-### 🗄️ Databases & Caching
-`MongoDB` `MySQL` `Redis`
-
-### 🤖 AI & Integration
-`OpenAI API` `Prompt Engineering` `Streaming Response`
-
-### 🚀 DevOps & Infra
-`Docker` `Docker Compose` `AWS EC2` `GitHub Actions` `Nginx` `PM2`
-
-> **DevOps philosophy:** Every project I build ships with a proper CI/CD pipeline.  
-> Code pushed → tested → built → deployed automatically.  
-> No manual SSH deployment, no "works on my machine".
-
-### DevOps Workflow
-
-```
-Developer Push
-      │
-      ▼
-GitHub Actions (CI)
-  ├── Lint & Type check
-  ├── Unit tests
-  └── Build Docker image
-          │
-          ▼
-    Docker Hub / GHCR
-          │
-          ▼
-    AWS EC2 (CD)
-  ├── Pull latest image
-  ├── docker compose up -d
-  └── Nginx reverse proxy → PM2 health check
-```
-
-### 🎨 Frontend (when needed)
-`React` `TanStack Query` `Zustand` `Tailwind CSS`
+Currently focusing on backend development using **Node.js** and **Go**.
 
 ---
 
-## 📦 Projects
+# Tech Stack
 
-| 🚀 Project | 🛠 Stack | 📌 Description | 🔗 |
-|---|---|---|---|
-| **🌌 Vạn Giới** | Go · gRPC · DDD · Redis · Kafka · Docker | Hệ thống microservices: User, Auth, Order, Notification — mỗi service là một bounded context độc lập, giao tiếp qua gRPC & Kafka | [Repo](#) |
-| **🛍️ Tika** | Express · TS · Hexagonal · Redis · React · AWS | Tiki-inspired fullstack ecommerce: product, cart, orders, payment flow — có live demo | [Repo](#) · [Demo](#) |
-| **🧵 Thread** | NestJS · WebSocket · Redis pub/sub · JWT | Real-time social platform: live feed, instant messaging, online presence tracking | [Repo](#) |
-| **📝 Notion Clone** | MERN · OpenAI API · Tailwind | Block-based editor tích hợp AI: generate content, summarize, rephrase với OpenAI streaming | [Repo](#) · [Demo](#) |
+### Languages
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhung253&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung253&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenhung253&theme=tokyonight&no-frame=true&row=1&column=6" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
 ---
 
-## 📬 Contact
+### Backend
 
-<p align="center">
-  <a href="mailto:nguyenhung253025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nguyenhung253025@gmail.com-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nguyenhung253">
-    <img src="https://img.shields.io/badge/LinkedIn-nguyenhung253-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/nguyenhung253">
-    <img src="https://img.shields.io/badge/GitHub-nguyenhung253-181717?logo=github&logoColor=white" />
-  </a>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
+</p>
+
+REST APIs • WebSocket • gRPC
+
+---
+
+### Databases & Caching
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
 </p>
 
 ---
 
-<p align="center">
-  <i>"The best code is the code that doesn't need a comment — because the domain speaks for itself."</i>
+### Messaging
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
 </p>
+
+Kafka • Redis Pub/Sub
+
+---
+
+### DevOps
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+</p>
+
+Docker • GitHub Actions • AWS EC2 • Nginx • PM2
+
+---
+
+# Projects
+
+## Vạn Giới — Microservices System
+
+**Stack**
+
+Go • gRPC • Redis • Kafka • Docker
+
+**Overview**
+
+A backend system built to explore microservices architecture.
+
+Services include:
+
+- User Service
+- Authentication Service
+- Order Service
+- Notification Service
+
+Communication methods:
+
+- **gRPC** for service-to-service communication
+- **Kafka** for asynchronous events
+
+Concepts explored:
+
+- service boundaries
+- event-driven communication
+- Redis caching
+- containerized deployment using Docker
+
+---
+
+## Tika — E-commerce Platform
+
+**Stack**
+
+Express.js • TypeScript • Redis • React
+
+**Overview**
+
+A simplified e-commerce platform inspired by modern online marketplaces.
+
+Features:
+
+- product management
+- shopping cart
+- order processing
+- authentication system
+
+Backend focus:
+
+- REST API design
+- Redis caching
+- maintainable backend structure
+
+---
+
+## Thread — Real-time Social Platform
+
+**Stack**
+
+NestJS • WebSocket • Redis Pub/Sub • JWT
+
+Features:
+
+- real-time messaging
+- live feed updates
+- online presence tracking
+
+Redis Pub/Sub is used to synchronize events across server instances.
+
+---
+
+## Notion Clone — AI Note Editor
+
+**Stack**
+
+MERN • OpenAI API • Tailwind
+
+Features:
+
+- block-based editor
+- AI content generation
+- text summarization
+- streaming responses
+
+---
+
+# GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenhung253&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung253&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhung253&theme=tokyo-night"/>
+</p>
+
+---
+
+# Currently Learning
+
+- Go backend development
+- microservices architecture
+- event-driven systems
+- distributed system fundamentals
+
+---
+
+# Contact
+
+LinkedIn  
+Facebook  
+GitHub
