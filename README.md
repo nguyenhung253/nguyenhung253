@@ -1,215 +1,69 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=650&lines=Nguyen+Hung;Backend+Developer;Building+Scalable+Backend+Systems;Node.js+%7C+Go+%7C+Distributed+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Nguy%E1%BB%85n+H%C3%B9ng+%F0%9F%91%8B;Backend+Developer;Node.js+%7C+NestJS+%7C+Go;Learning+Clean+Architecture+%26+DevOps;Building+projects+that+actually+work+%F0%9F%9A%80" />
 </p>
 
-<h1 align="center">Nguyễn Hùng</h1>
+<h1 align="center">⚔️ Nguyễn Hùng</h1>
 
 <p align="center">
-Backend Developer • Backend Systems • Distributed Architecture
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nguyenhung253&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# About Me
-
-Backend developer focused on building and learning modern backend systems.
-
-I enjoy exploring:
-
-- backend architecture
-- API design
-- caching systems
-- message-driven systems
-- real-time communication
-- backend deployment workflows
-
-Currently focusing on backend development using **Node.js** and **Go**.
-
----
-
-# Tech Stack
-
-### Languages
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</p>
-
----
-
-### Backend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
-</p>
-
-REST APIs • WebSocket • gRPC
-
----
-
-### Databases & Caching
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
-</p>
-
----
-
-### Messaging
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
-</p>
-
-Kafka • Redis Pub/Sub
-
----
-
-### DevOps
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-</p>
-
-Docker • GitHub Actions • AWS EC2 • Nginx • PM2
-
----
-
-# Projects
-
-## Vạn Giới — Microservices System
-
-**Stack**
-
-Go • gRPC • Redis • Kafka • Docker
-
-**Overview**
-
-A backend system built to explore microservices architecture.
-
-Services include:
-
-- User Service
-- Authentication Service
-- Order Service
-- Notification Service
-
-Communication methods:
-
-- **gRPC** for service-to-service communication
-- **Kafka** for asynchronous events
-
-Concepts explored:
-
-- service boundaries
-- event-driven communication
-- Redis caching
-- containerized deployment using Docker
-
----
-
-## Tika — E-commerce Platform
-
-**Stack**
-
-Express.js • TypeScript • Redis • React
-
-**Overview**
-
-A simplified e-commerce platform inspired by modern online marketplaces.
-
-Features:
-
-- product management
-- shopping cart
-- order processing
-- authentication system
-
-Backend focus:
-
-- REST API design
-- Redis caching
-- maintainable backend structure
-
----
-
-## Thread — Real-time Social Platform
-
-**Stack**
-
-NestJS • WebSocket • Redis Pub/Sub • JWT
-
-Features:
-
-- real-time messaging
-- live feed updates
-- online presence tracking
-
-Redis Pub/Sub is used to synchronize events across server instances.
-
----
-
-## Notion Clone — AI Note Editor
-
-**Stack**
-
-MERN • OpenAI API • Tailwind
-
-Features:
-
-- block-based editor
-- AI content generation
-- text summarization
-- streaming responses
-
----
-
-# GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenhung253&show_icons=true&theme=tokyonight" />
+  <b>Backend Developer</b> · Clean Code Enthusiast
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung253&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Clean-blueviolet" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS_EC2-232F3E?logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-# Activity Graph
+## 🧠 About Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhung253&theme=tokyo-night"/>
-</p>
+> Backend developer **obsessed with clean code and reliable systems**.  
+> I'm learning how to build projects that actually deploy to production —  
+> from hexagonal monoliths to small Go microservices experiments.
 
----
-
-# Currently Learning
-
-- Go backend development
-- microservices architecture
-- event-driven systems
-- distributed system fundamentals
+- ⚙️ **Core stack:** Node.js · Express · NestJS · TypeScript
+- 🏗️ **Learning focus:** Clean/Hexagonal architecture · Event-driven patterns  
+- ⚡ **Experiments:** Go microservices · gRPC · Redis pub/sub
+- 🚀 **Deployment:** Docker · GitHub Actions · AWS EC2 · Nginx
+- 📚 **Currently building:** Fullstack ecommerce + real-time apps
 
 ---
 
-# Contact
+## 🛠️ Tech Stack
 
-LinkedIn  
-Facebook  
-GitHub
+### 💻 Languages
+`TypeScript` `JavaScript` `Go` `Java` `SQL`
+
+### ⚙️ Backend
+`Node.js` `Express.js` `NestJS` `REST APIs` `WebSocket`
+
+### 🏗️ Architecture (learning)
+`Clean Architecture` `Hexagonal` `Event-Driven` `RBAC` `JWT`
+
+### 🗄️ Data
+`MongoDB` `MySQL` `Redis` (cache, pub/sub)
+
+### 🚀 DevOps (hands-on)
+`Docker` `Docker Compose` `GitHub Actions` `AWS EC2` `Nginx` `PM2`
+
+### 🎨 Frontend
+`React` `TanStack Query` `Tailwind CSS`
+
+---
+
+## 📦 Projects
+
+| 🚀 Project | 🛠 Stack | 📌 What I built | 🔗 |
+|---|---|---|---|
+| **🌌 Vạn Giới** | Go · gRPC · Redis · Docker | Microservices playground: User/Auth/Order services talking via gRPC + Redis pub/sub | [Repo](#) |
+| **🛍️ Tika** | Express · TS · React · Redis · AWS | Tiki-inspired ecommerce: fullstack with cart, orders, payments — **live demo** | [Repo](#) · [Demo](#) |
+| **🧵 Thread** | NestJS · WebSocket · Redis | Real-time social feed: live updates, online presence, message streaming | [Repo](#) |
+| **📝 Notion Clone** | MERN · OpenAI API | Block editor with AI: generate/summarize content using OpenAI streaming | [Repo](#) |
+
+---
